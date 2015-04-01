@@ -1,3 +1,3 @@
 $(function () {
-    $('#can-app').html('The Requisite "Hello World" Message');
+    $('#can-app').html(can.view('base_template.stache', {}));
 });
