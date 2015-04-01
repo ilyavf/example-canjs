@@ -1,0 +1,21 @@
+{
+  "name": "example-canjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ilyavf/example-canjs",
+  "authors": [
+    "Ilya Fadeev <fadeev.ilya@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "canjs": "~2.2.2"
+  }
+}
